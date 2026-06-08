@@ -1,0 +1,2 @@
+# studentmanager
+学生信息管理软件案例资源包studentmanager是根据MVC设计模式开发的一个面向对象范型软件案例
